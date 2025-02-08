@@ -25,7 +25,7 @@ body{background-image: url(io17.jpg);
 .poema{
     position: relative;
     text-align:center ;
-    color: rgb(255, 2455, 255);
+    color: rgb(7, 7, 7);
     
 
 
@@ -35,7 +35,7 @@ body{background-image: url(io17.jpg);
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
     text-align:center ;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 
 }
 .zack{

@@ -261,8 +261,8 @@ font-size: 15px;
 }
 .oculto2{color: rgb(255, 255, 255);
       position: relative;
-      left: 500px;
-      top: 0px;
+      left: 800px;
+      top: 800px;
      background-image: url(io21.jpg);
      border: 2px solid black ;
      border-radius: 50px;

@@ -259,6 +259,49 @@ font-size: 15px;
 
 
 }
+.oculto2{color: rgb(255, 255, 255);
+      position: relative;
+      left: 500px;
+      top: 0px;
+     background-image: url(io21.jpg);
+     border: 2px solid black ;
+     border-radius: 50px;
+     
+     text-decoration: none;
+     font-size: 2px; 
+
+}
+
+
+
+
+.oculto3{color: rgb(255, 255, 255);
+      position: relative;
+      left: 0px;
+      top: 500px;
+     background-image: url(io21.jpg);
+     border: 2px solid black ;
+     border-radius: 50px;
+     
+     text-decoration: none;
+     font-size: 2px; 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
 
 
 
